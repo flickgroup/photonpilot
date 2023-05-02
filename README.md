@@ -21,7 +21,7 @@ The project is distributed under the GNU license
 ## Citation 
 If you use this code in a publication please cite the following paper:
 
-            Svendsen, M. K., et. al.
+            Svendsen, Mark Kamper, et al.
             "Molecules in Real Cavities with Quantum Electroynamical Density Functional Theory"
-            arXiv: 4873363
+            arXiv preprint arXiv: <Add-identifier>
 
