@@ -23,5 +23,5 @@ If you use this code in a publication please cite the following paper:
 
             Svendsen, Mark Kamper, et al.
             "Molecules in Real Cavities with Quantum Electroynamical Density Functional Theory"
-            arXiv preprint arXiv: <Add-identifier>
+            https://arxiv.org/abs/2305.02391 
 
