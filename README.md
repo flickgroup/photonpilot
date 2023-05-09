@@ -23,7 +23,7 @@ If you use this code in a publication please cite the following paper:
 
             [Svendsen, Mark Kamper, et al. 
             "Molecules in Real Cavities with Quantum Electroynamical Density Functional Theory." 
-            arXiv preprint arXiv:2305.02391 (2023).] (https://arxiv.org/abs/2305.02391) 
+            arXiv preprint arXiv:2305.02391 (2023).](https://arxiv.org/abs/2305.02391) 
 
             BibTeX:
             @article{svendsen2023molecules,
