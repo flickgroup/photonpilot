@@ -9,11 +9,10 @@ The code currently supports
 * Spherical cavities
 
 ## Installation
-The package can be used to simply adding PhotonPilot 
-to your python path. On UNIX systems it should be as simple
-as adding the following to your .bashrc or .bash_profile
-
-export PYTHONPATH="${PYTHONPATH}:\<path-to-photonpilot>"
+The package can be installed by either running
+    1. pip install photonpilot
+Or by running 
+    2. python setup.py install 
 
 ## License
 The project is distributed under the GNU license
