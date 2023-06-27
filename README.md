@@ -10,8 +10,8 @@ The code currently supports
 
 ## Installation
 The package can be installed by either running
-    * pip install photonpilot
-    * python setup.py install 
+* pip install photonpilot
+* python setup.py install 
 
 ## License
 The project is distributed under the GNU license
