@@ -25,7 +25,7 @@ If you use this code in a publication please cite the following paper:
 
             BibTeX:
             @article{svendsen2023molecules,
-                title={Molecules in Real Cavities with Quantum Electroynamical Density Functional Theory},
+                title={Molecules in Real Cavities with Quantum Electrodynamical Density Functional Theory},
                 author={Svendsen, Mark Kamper and Thygesen, Kristian Sommer and Rubio, Angel and Flick, Johannes},
                 journal={arXiv preprint arXiv:2305.02391},
                 year={2023}
