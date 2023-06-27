@@ -9,7 +9,7 @@ The code currently supports
 * Spherical cavities
 
 ## Installation
-The package can be installed by either running
+The package can be installed by running either of the following commands
 * pip install photonpilot
 * python setup.py install 
 
